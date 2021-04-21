@@ -17,7 +17,7 @@ There are some useful resources in the nltk library which need to be downloaded 
 `import nltk` \
 `nltk.download('punkt')`\
 `nltk.download('wordnet')`\
-`nltk.download('stopwords')`\
+`nltk.download('stopwords')`
 
 
 You need to run this only once, and it will be available in all following notebooks.
