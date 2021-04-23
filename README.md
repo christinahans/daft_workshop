@@ -23,3 +23,10 @@ There are some useful resources in the nltk library which need to be downloaded 
 You need to run this only once, and it will be available in all following notebooks.
 
 Looking forward to meeting you all on Thursday!
+
+### Additional Resources
+
+You can find an example walkthrough of the same dataset you have seen (IMDB reviews) here: https://dropsofai.com/sentiment-analysis-with-python-bag-of-words/
+And if you'd like to use the full dataset instead of the sample I chose, it's here: http://ai.stanford.edu/~amaas/data/sentiment/
+
+In general, there are a lot of nice resources for NLP datasets on the internet - some great datasets are mentioned here, for example: https://lionbridge.ai/datasets/the-best-25-datasets-for-natural-language-processing/
